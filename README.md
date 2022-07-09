@@ -1,6 +1,5 @@
 # HTTP Browser
-
-HTTP Browser method developed by unknown developer
+NOWBROWSER (Browser Emulation) 
 
 # Usage
 
